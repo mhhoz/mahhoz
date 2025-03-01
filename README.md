@@ -1,6 +1,4 @@
-<div align="center"> 
-![42b4229a9ec3145edaa895b2415dd720](https://github.com/user-attachments/assets/46883158-1c0c-4d16-a296-c2728e393619)
-</div>
+![42b4229a9ec3145edaa895b2415dd720-ezgif com-resize](https://github.com/user-attachments/assets/9389da2d-a031-487a-ae4f-32c766ceacf1)
 
 <div align="center"> 
 
