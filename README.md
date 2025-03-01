@@ -2,11 +2,11 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/mhhoz/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="[https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B;I+am+Erythos)](https://git.io/typing-svg" />
 </h1>
 
 ### A full-stack developer passionate about creating high-quality, optimized, and immersive experiences for FiveM. I build custom scripts, UIs, and game features using React, Lua, and JavaScript. Always striving to push the limits of FiveM development. 🚀
