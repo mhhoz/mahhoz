@@ -6,8 +6,7 @@
 </div>
 
 <h1 align="center">
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B;I+am+Erythos" alt="Typing SVG" /></a>
-](https://readme-typing-svg.herokuapp.com/demo/?size=50&center=true&vCenter=true&width=500&height=70&lines=Hello+There+%F0%9F%91%8B;I+am+Erythos)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hello+There+%F0%9F%91%8B;I+am+Erythos" alt="Typing SVG" /></a>
 </h1>
 
 
