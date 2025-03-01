@@ -1,7 +1,7 @@
-![42b4229a9ec3145edaa895b2415dd720](https://github.com/user-attachments/assets/2829d11e-0b91-4cde-830f-091f66308b0c)
 
 
 <div align="center"> 
+  ![42b4229a9ec3145edaa895b2415dd720](https://github.com/user-attachments/assets/2829d11e-0b91-4cde-830f-091f66308b0c)
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
