@@ -11,7 +11,7 @@ I build custom scripts, UIs, and game features using React, Lua, and JavaScript.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,lua" />
 </p>
 
 <hr>
